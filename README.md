@@ -9,8 +9,8 @@
 
 📫 How to reach me: vincenzo1dangelo@gmail.com  
 
-###Connect with me:  
-[Kaggle]([https://github.com/vincenzodangelo](https://www.kaggle.com/vincenzodangelo)) | [LinkedIn](https://www.linkedin.com/in/vincenzodangelo)  
+### Connect with me:  
+[Kaggle](https://www.kaggle.com/vincenzodangelo) | [LinkedIn](https://www.linkedin.com/in/vincenzodangelo)
 
 ### Languages and Tools
 
