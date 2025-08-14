@@ -1,7 +1,5 @@
-<div align="center">
-  # Hi 👋, I'm Vincenzo D'Angelo
-  ## A Computer Engineering Graduate (BSc) @ University of Naples Federico II
-</div>
+<h1 align="center">Hi 👋, I'm Vincenzo D'Angelo</h1>
+<h3 align="center">A Computer Engineering Graduate (BSc) @ University of Naples Federico II</h3>
 
 📚 I'm specialized in Artificial Intelligence and Data Analysis. Currently pursuing my Master’s Degree in Information Engineering.
 
