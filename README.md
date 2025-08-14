@@ -63,11 +63,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
 </a>
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincenzodan&show_icons=true&locale=en&layout=compact" alt="vincenzodan"/>
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vincenzodan&show_icons=true&locale=en" alt="vincenzodan"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincenzodan&show_icons=true&locale=en&layout=compact" width="300"/>
+
+
 
 
